@@ -1,0 +1,42 @@
+#1
+
+On branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+
+
+#2
+
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+        new file:   aboutMe.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        lab3Answers.txt
+
+#3
+
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#       new file:   aboutMe.txt
+#
+# Untracked files:
+#       lab3Answers.txt
+#
+
