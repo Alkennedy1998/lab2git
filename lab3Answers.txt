@@ -40,3 +40,18 @@ Untracked files:
 #       lab3Answers.txt
 #
 
+#4
+
+On branch master
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+        new file:   lab3Answers.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        employees.txt
+
+#5
+
